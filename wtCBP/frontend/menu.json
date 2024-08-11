@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Panner tika",
     "category": "starters",
-    "price": 200,
+    "price": 199,
     "img": "th.jpeg",
     "desc": "delicious tandoori snack made with Panner"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Chicken 65",
     "category": "starters",
-    "price": 250,
+    "price": 249,
     "img": "c65.jpeg",
     "desc": "Spicy Chicken tossed snack"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "title": "Butter Chicken",
     "category": "starters",
-    "price": 250,
+    "price": 249,
     "img": "bc.jpeg",
     "desc": "delicious smoky chicken with sweet and spice gravy"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "title": "Dal fry",
     "category": "starters",
-    "price": 120,
+    "price": 119,
     "img": "df.jpeg",
     "desc": "dal fried gravy  "
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "title": "Chicken Biryani",
     "category": "Biryanis",
-    "price": 250,
+    "price": 249,
     "img": "cb.jpeg",
     "desc": "Spicy flavoured rice with juicy chicken"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "title": "Panner Biryani",
     "category": "Biryanis",
-    "price": 220,
+    "price": 219,
     "img": "pb.jpeg",
     "desc": "delicious flavoured rice with panner"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "title": "Mixed Veg Biryani",
     "category": "Biryanis",
-    "price": 180,
+    "price": 179,
     "img": "vb.jpeg",
     "desc": "delicious flavoured rice with veggies"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "title": "Jeera Rice",
     "category": "Biryanis",
-    "price": 100,
+    "price": 99,
     "img": "jr.jpeg",
     "desc": "delicious jeera rice"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "title": "Double ka meetha",
     "category": "Deserts",
-    "price": 50,
+    "price": 49,
     "img": "dm.jpeg",
     "desc": "delicious and sweet"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "title": "Aricot Delight",
     "category": "Deserts",
-    "price": 100,
+    "price": 99,
     "img": "ad.jpeg",
     "desc": "delicious and sweet"
   }
